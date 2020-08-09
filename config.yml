@@ -4,3 +4,8 @@ title: Violet's Website
 
 params:
   description: This is Violet Stead's website
+
+deployment:
+  targets:
+    - name: Azure
+      URL: azblob://$web
