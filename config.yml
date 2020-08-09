@@ -1,0 +1,6 @@
+baseURL: https://violetstead.com/
+languageCode: en-us
+title: Violet's Website
+
+params:
+  description: This is Violet Stead's website
