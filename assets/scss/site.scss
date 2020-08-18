@@ -105,6 +105,16 @@ main {
             margin-left: -4px; /* Correction for margin of leftmost character. */
             margin-top: 0;
         }
+
+        .links {
+            margin-top: 2.5rem;
+            font-size: 1.5rem;
+
+            a {
+                margin-right: 0.5rem;
+                text-decoration: none;
+            }
+        }
     }
 
     @media screen and (max-width: $break-large) {
