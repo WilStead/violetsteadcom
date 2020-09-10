@@ -5,6 +5,11 @@ title: Violet's Website
 params:
   description: This is Violet Stead's website
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 deployment:
   targets:
     - name: Azure

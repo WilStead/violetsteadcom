@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div class="background background2"></div>
+<main role="main">
+    <!-- Renders the article.html content view for each content/sections/*.md -->
+    {{ range .Pages }}
+        {{ .Render "article"}}
+    {{ end }}
+</main>
+{{ end }}
