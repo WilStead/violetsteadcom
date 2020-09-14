@@ -16,6 +16,8 @@ images:
     src: https://lh3.googleusercontent.com/NVYkjHkOCgKxIOc9K-HltO3mPfUmXpiBzttF8yo87e2oNNuNQFAfLbKQs8edpj7wvHI0X7FC-aPbw89358rpPMfsyE0JhG3fcDuvAXygMd04fl_RVHkgofWzawuw_c8wts0bMPf5thM=w600
   - id: img7
     src: https://lh3.googleusercontent.com/7lEc_NO6sF7mh24YerxMD8yTHJgu2JvEO35Ar1gwKK7Jnfox0_wWrhrOP1NCrKwSCh1tIKK8WlkjQFLtqc7pbEhKemUgSHcpwTx8uaFM2k5kA1dcJSJ8v0u55NaL6TwkTq_BVURmYJs=w600
+  - id: img8
+    src: https://lh3.googleusercontent.com/cMHWembsy_gIwbXsntHSi89O4cCZsgTfIb8Ct82m6NOaMt0xBuYT0ickQjBbaDcm3MEXGwNkKguCXeIsMq1Vue91ErG3iA-439X1HxmrCgGnd1w07IunyuBQvPx-iZc1boV3e68KwuM=w600
 ---
 It says 'Family' but this page is really all about Violet's little cousin Jordan "Jojo" Leigh. Just 8 short weeks after I, Jessi, found out I was pregnant with Violet my younger sister found out she was pregnant as well! Violet was born on March 24, 2020 and 6 weeks later we welcomed Jojo on May 6, 2020. Our little pandemic girls have brought new life, light, and joy into our family. These two are already having many adventures with Pippa and Grandad, their full-time babysitters while the mommies have gone back to work.
 
