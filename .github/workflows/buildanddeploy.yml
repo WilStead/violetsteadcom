@@ -7,7 +7,7 @@ defaults:
 on:
     push:
         branches:
-            - master
+            - main
 
 env:
     HUGO_VERSION: 0.74.3
