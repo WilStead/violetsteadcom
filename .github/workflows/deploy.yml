@@ -12,10 +12,10 @@ jobs:
       # add .nojekyll file so GitHub pages will not treat this as a Jekyll project
       - name: Add .nojekyll file
         run: touch .nojekyll
-        working-directory: ./src/wwwroot
+        working-directory: ./wwwroot
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.7
         with:
           branch: gh-pages
-          folder: src/wwwroot
+          folder: wwwroot
